@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.5.3
+
+### What's new
+
+  * Fixes [#1204](https://github.com/Vincit/objection.js/issues/1204)
+
+## 1.5.1
+
+### What's new
+
+  * Relations are now loaded lazily [#1202](https://github.com/Vincit/objection.js/issues/1202)
+  * `relationMappings.modelClass` can now be a function that returns a model class.
+
 ## 1.5.0
 
 ### What's new
